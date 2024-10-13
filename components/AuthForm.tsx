@@ -80,10 +80,10 @@ function AuthForm({type}:{type:string}) {
                     src='icon/logo.svg'
                     width={34}
                     height={34}
-                    alt="HomeWork Logo"
+                    alt="LendIt Logo"
                     />
                 <h1 className='text-26 font-ibm-plex-serif font-bold text-black-1'>
-                HomeWork
+                LendIt
                 </h1>
             </Link>
 

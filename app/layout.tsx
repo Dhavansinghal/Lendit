@@ -11,7 +11,7 @@ const ibmPlexSerif = IBM_Plex_Serif({
 })
 
 export const metdata:Metadata={
-  title:'Homework',
+  title:'Lend It',
   description:'Testing and learning NextJs',
   icons:{
     icon: '/icon/logo.svg'
